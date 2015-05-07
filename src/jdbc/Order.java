@@ -19,7 +19,7 @@ public class Order {
   static final String DB_URL = "jdbc:mysql://localhost:3306/mydb";
   
   static final String USER = "root";
-   static final String PASS = "kzevyetf";
+   static final String PASS = "root";
     /**
      * @param args the command line arguments
      */
